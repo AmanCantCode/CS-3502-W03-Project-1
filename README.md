@@ -4,11 +4,12 @@ This is two part Operating Systems project where Project A demonstrates multi-th
 
 The following instructions are to be followed on a Linux based environment.
 
-Prerequisites:
-    .NET SDK 8.0
-    Git - To clone the repository
+    Prerequisites:
+        .NET SDK 8.0
+        Git - To clone the repository
     
 **If Prerequisites not met, open the terminal and use these commands**
+
     1. To install .NET SDK:
         sudo spt-get update
         sudo apt-get install -y dotnet-sdk-8.0
