@@ -1,0 +1,14 @@
+/home/amanbhayani/Downloads/Trail/Phase3/bin/Debug/net8.0/Phase3
+/home/amanbhayani/Downloads/Trail/Phase3/bin/Debug/net8.0/Phase3.deps.json
+/home/amanbhayani/Downloads/Trail/Phase3/bin/Debug/net8.0/Phase3.runtimeconfig.json
+/home/amanbhayani/Downloads/Trail/Phase3/bin/Debug/net8.0/Phase3.dll
+/home/amanbhayani/Downloads/Trail/Phase3/bin/Debug/net8.0/Phase3.pdb
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.GeneratedMSBuildEditorConfig.editorconfig
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.AssemblyInfoInputs.cache
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.AssemblyInfo.cs
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.csproj.CoreCompileInputs.cache
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.dll
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/refint/Phase3.dll
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.pdb
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/Phase3.genruntimeconfig.cache
+/home/amanbhayani/Downloads/Trail/Phase3/obj/Debug/net8.0/ref/Phase3.dll

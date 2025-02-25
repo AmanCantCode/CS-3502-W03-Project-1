@@ -1,0 +1,14 @@
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/bin/Debug/net9.0/Consumer
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/bin/Debug/net9.0/Consumer.deps.json
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/bin/Debug/net9.0/Consumer.runtimeconfig.json
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/bin/Debug/net9.0/Consumer.dll
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/bin/Debug/net9.0/Consumer.pdb
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfoInputs.cache
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.AssemblyInfo.cs
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.csproj.CoreCompileInputs.cache
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.dll
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/refint/Consumer.dll
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.pdb
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/Consumer.genruntimeconfig.cache
+/Users/amanbhayani/Downloads/OS Project 2/Consumer/obj/Debug/net9.0/ref/Consumer.dll

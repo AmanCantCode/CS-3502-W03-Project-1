@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Phase1.sln",
+    "r.lsp.promptToInstall": false
+}

@@ -1,0 +1,14 @@
+/Users/amanbhayani/Downloads/OS Project 2/Producer/bin/Debug/net9.0/Producer
+/Users/amanbhayani/Downloads/OS Project 2/Producer/bin/Debug/net9.0/Producer.deps.json
+/Users/amanbhayani/Downloads/OS Project 2/Producer/bin/Debug/net9.0/Producer.runtimeconfig.json
+/Users/amanbhayani/Downloads/OS Project 2/Producer/bin/Debug/net9.0/Producer.dll
+/Users/amanbhayani/Downloads/OS Project 2/Producer/bin/Debug/net9.0/Producer.pdb
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.AssemblyInfoInputs.cache
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.AssemblyInfo.cs
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.csproj.CoreCompileInputs.cache
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.dll
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/refint/Producer.dll
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.pdb
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/Producer.genruntimeconfig.cache
+/Users/amanbhayani/Downloads/OS Project 2/Producer/obj/Debug/net9.0/ref/Producer.dll

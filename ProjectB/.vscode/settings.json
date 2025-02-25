@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Producer.sln",
+    "r.lsp.promptToInstall": false
+}
